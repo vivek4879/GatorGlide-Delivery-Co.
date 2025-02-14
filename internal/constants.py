@@ -1,0 +1,5 @@
+TIMEWEIGHT = 7
+VALUEWEIGHT = 3
+
+BRANCH_EST_TOA = "est_toa"
+BRANCH_PRIORITY = "priority"
